@@ -1,0 +1,75 @@
+/* external styling */
+
+/* body styling */
+
+body{
+    background-color: blanchedalmond;
+}
+/* footer styling */
+
+.footer{
+    display: flex;
+    justify-content: space-between;
+
+}
+/* media styling */
+
+.media{
+    display: flex;
+    justify-content: center;
+    }
+
+/* pre tag styling */
+
+pre{
+    float: left;
+    align-self: flex-start;
+    color: coral;
+}
+
+/* h1 styling */
+
+h1{
+    color: rgb(134, 9, 9);
+}
+/* a styling */
+
+a{
+    color: rgb(8, 180, 227);
+    text-decoration: none;
+}
+
+a:hover{
+    color: rgb(186, 16, 16);
+}
+
+/* li styling */
+li{
+    display: block;
+    line-height: 40px;
+    
+}
+/* p styling */
+
+p{
+    color: brown;
+    font-size: 30px;
+    text-align: center;
+}
+/* button styling */
+button{
+    width:100px;
+    color: red;
+    border-radius: 12px;
+    border-color: red;
+    font-size: 20px;
+    margin-left: 50px;
+    
+}
+/* fa styling */
+
+.fa{ 
+ width: 100px; 
+
+}
+
